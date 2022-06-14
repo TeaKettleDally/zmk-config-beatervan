@@ -42,7 +42,7 @@
 			bindings = <
 &kp GRAVE &kp EXCL &kp AT &kp HASH &kp DOLLAR &kp PERCENT &kp CARET &kp AMPS &kp STAR &kp LPAR &kp RPAR &kp DEL
 &trans     &trans &trans &trans &trans &trans &trans &trans &kp MINUS &kp EQUAL &kp BSLH  &kp SEMI
-&trans    &trans  &trans &trans &trans &trans &trans   &kp LBKT   &RBKT    &kp UP    &kp C_VOL_UP   &trans
+&trans    &trans  &trans &trans &trans &trans &trans   &kp LBKT   &kp RBKT    &kp UP    &kp C_VOL_UP   &trans
 &trans    &trans   &trans    &trans                        &trans   &trans    &kp LEFT  &kp C_PREV    &kp C_VOL_DN &kp C_NEXT
 			>;
 		};
